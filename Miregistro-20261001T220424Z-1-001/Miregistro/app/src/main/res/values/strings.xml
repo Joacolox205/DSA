@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mi registro</string>
+    <!--Pantalla Formulario-->
+    <string name="Titulo_Formulario">Mi registro</string>
+    <string name="Banner_titulo">Mi registro</string>
+    <string name="banner_subtitulos">Mi registro</string>
+    <string name="seccion_datos">Mi registro</string>
+    <string name="seccion_preferencias">Mi registro</string>
+    <string name="campo_nombre">Mi registro</string>
+    <string name="compo_contraseña">Mi registro</string>
+    <string name="campo_correo">Mi registro</string>
+    <string name="etiqueta_nivel">Mi registro</string>
+    <string name="opcion_noticias">Mi registro</string>
+    <string name="opcion_terminos">Mi registro</string>
+    <string name="btn_registrar">Mi registro</string>
+    <string name="btn_limpiar">Mi registro</string>
+    <string name="registro_exitoso_eres_tremendo_exitoso">Bienvenido/a %1$s</string>
+    <!--Pantalla Perfil -->
+    <string name="titulo_perfil">Mi perfil</string>
+    <string name="seccion_sobre_mi">Sobre mi</string>
+    <string name="seccion_intereses">intereses</string>
+    <string name="btn_seguir">seguir</string>
+    <string name="btn_siguiendo">siguiendo</string>
+    <!-- descripciones de accesibilidad (talkback) -->
+    <string name="cd_banner">Ilustracion de un formulario</string>
+    <string name="cd_portada">Paisaje de montañas al atardecer</string>
+    <string name="cd_avatar">Foto de perfil</string>
+    <string name="cd_mostrar_contrasena">Mostrar contraseña</string>
+    <string name="cd_ocultar_contasena">ocultar contraseña</string>
+</resources>
